@@ -13,11 +13,11 @@ The project involves creating a classifier for cheese types when limited annotat
   The classifier used dinov2 (vision transformer) as the main model, fine-tuned to adapt to the variability of cheese images. The model addressed the gap between the synthetic training set and the real-world validation set.
 
 # Validation and Testing:  
-The provided validation and test sets helped evaluate model performance. Despite challenges from the distribution gap, the model achieved 63### precision across 37 cheese categories.
+The provided validation and test sets helped evaluate model performance. Despite challenges from the distribution gap, the model achieved 63\% precision across 37 cheese categories.
 
 # Results:  
 
-- Precision: 63 \% across 37 cheese categories.  
+- Precision: 63\% across 37 cheese categories.  
 - Synthetic data generation improved, but the gap between training and validation data required additional fine-tuning.
 
 # Future Work:  
