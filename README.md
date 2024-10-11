@@ -17,7 +17,7 @@ The provided validation and test sets helped evaluate model performance. Despite
 
 # Results:  
 
-- Precision: 63 /% across 37 cheese categories.  
+- Precision: 63 \% across 37 cheese categories.  
 - Synthetic data generation improved, but the gap between training and validation data required additional fine-tuning.
 
 # Future Work:  
